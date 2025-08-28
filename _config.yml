@@ -1,8 +1,9 @@
-title: "Rohan Krishna Portfolio"
-name: "Surapaneni Rohan Krishna"
-description: "Full-Stack Developer | Cloud Enthusiast | Problem Solver"
-url: "https://yourusername.github.io"
-github: "Rohan1510"
-linkedin: "rohan-krishna-588a01258"
-email: "rohankrishna@150@gmail.com"
-phone: "+91 7801037849"
+navigation:
+  - title: "About"
+    url: /about/
+  - title: "Projects"
+    url: /projects/
+  - title: "Experience"
+    url: /experience/
+  - title: "Skills"
+    url: /skills/
